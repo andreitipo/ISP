@@ -280,11 +280,3 @@ class A:
 
 print(inspect.getmembers(A))
 
-'''
-f1 = json_new.dumps(f)
-fo = json_new.loads(f1)
-fo()
-y = json_new.dump(f, "demo.json", indent=4)
-z = json_new.load("demo.json")
-z()
-'''
